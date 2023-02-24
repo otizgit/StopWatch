@@ -18,7 +18,6 @@ main {
 
 .container {
     background-color: hsl(0, 0%, 18%);
-    /* background-color: ; */
     width: 40%;
     border-radius: 10px;
     padding-block: 30px;
