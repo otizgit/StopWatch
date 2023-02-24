@@ -64,5 +64,5 @@ resetBtn.addEventListener("click", function () {
   minutes = 0;
   hours = 0;
   stateBtn.innerHTML = '<i class="fa-solid fa-play" id="play"></i>';
-  timerStatus = !timerStatus;
+  timerStatus = true;
 });
